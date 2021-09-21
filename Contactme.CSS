@@ -1,0 +1,44 @@
+body {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+
+ 
+}
+  
+h1 {
+    font-family: 'Koh Santepheap' ;
+}
+
+.contactme {
+    margin: 150px auto;
+    justify-content: center;
+    align-items: center;
+    width: 323px;
+    height: 250px;
+    padding: 50px;
+    border: black;
+    border-style: solid;
+    border-radius: 25px;
+}
+
+.email{
+    font-family: 'Koh Santepheap';
+    padding: 10px 10px;
+    width: 334px;
+}
+
+.firstName {
+    font-family: 'Koh Santepheap';
+    padding: 10px 28px;
+}
+
+.lastName {
+    font-family: 'Koh Santepheap';
+    padding: 10px 10px;
+    
+}
+
+#submit {
+    width: 410px;
+    margin: 6px -44px;
+}
